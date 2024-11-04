@@ -5,3 +5,7 @@ I am currently a PhD candidate at Delft University of Technology (TU Delft), und
 ## Research Interests
 
 My research interests include control theory, optimization, and cybersecurity.
+
+## Contact details
+
+Email: `b.wolleswinkel@tudelft.nl`
