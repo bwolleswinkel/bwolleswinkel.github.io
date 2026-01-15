@@ -8,6 +8,46 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
+      /* Widen the main content area by ~30% while keeping layout centered */
+      .wrapper {
+        width: 1040px !important; /* Default is ~800px, this is ~30% wider */
+        max-width: 1040px !important;
+      }
+      
+      section {
+        width: 650px !important; /* Default is ~500px, this is ~30% wider */
+        float: right;
+      }
+      
+      header {
+        width: 320px !important; /* Slightly adjust header to maintain balance */
+      }
+      
+      /* Ensure responsive behavior is maintained */
+      @media print, screen and (max-width: 1060px) {
+        .wrapper {
+          width: auto !important;
+          margin: 0;
+        }
+        
+        header, section, footer {
+          float: none !important;
+          position: static !important;
+          width: auto !important;
+        }
+        
+        header {
+          padding-right: 320px;
+        }
+        
+        section {
+          border: 1px solid #e5e5e5;
+          border-width: 1px 0;
+          padding: 20px 0;
+          margin: 0 0 20px;
+        }
+      }
+
       .publication-card {
         background-color: #f8f9fa;
         border: 1px solid #e9ecef;
