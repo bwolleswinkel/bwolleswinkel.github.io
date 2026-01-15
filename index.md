@@ -24,12 +24,12 @@ B. Wolleswinkel, I. van Straalen, L. Ballotta, and A. J. Gallo, “Periodic Spar
 
 <a href="https://doi.org/10.1109/CDC56724.2024.10886758" class="publication-card">
 **A Self-Triggered Control Watermarking Scheme for Detecting Replay Attacks**<br>
-*B. Wolleswinkel, R. Ferrari, and M. Mazo, “A Self-Triggered Control Watermarking Scheme for Detecting Replay Attacks,” in 2024 IEEE 63rd Conference on Decision and Control (CDC). Milan, Lombardy, Italy: IEEE, Dec. 2024, pp. 4568–4573.*
+B. Wolleswinkel, R. Ferrari, and M. Mazo, “A Self-Triggered Control Watermarking Scheme for Detecting Replay Attacks,” in 2024 IEEE 63rd Conference on Decision and Control (CDC). Milan, Lombardy, Italy: IEEE, Dec. 2024, pp. 4568–4573.
 </a>
 
 <a href="https://doi.org/10.23919/ECC65951.2025.11186940" class="publication-card">
 **Zero Dynamics Attacks Subject to Actuator Saturation**<br>
-*B. Wolleswinkel, M. Mazo, and R. Ferrari, "Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach," in 2025 European Control Conference (ECC). Thessaloniki, Greece: IEEE, Jun. 2025, pp. 1078–1083.*
+B. Wolleswinkel, M. Mazo, and R. Ferrari, "Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach," in 2025 European Control Conference (ECC). Thessaloniki, Greece: IEEE, Jun. 2025, pp. 1078–1083.
 </a>
 
 
