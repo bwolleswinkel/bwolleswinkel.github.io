@@ -24,10 +24,10 @@ Email: `b.wolleswinkel@tudelft.nl`
 
 >>> B. Wolleswinkel, R. Ferrari, and M. Mazo, “A Self-Triggered Control Watermarking Scheme for Detecting Replay Attacks,” in 2024 IEEE 63rd Conference on Decision and Control (CDC). Milan, Lombardy, Italy: IEEE, Dec. 2024, pp. 4568–4573. 
 
-**[Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach](https://doi.org/10.23919/ECC65951.2025.11186940)**
+ß**Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach**
 
-<div class="publication-card">
+<a href="https://doi.org/10.23919/ECC65951.2025.11186940" class="publication-card">
 B. Wolleswinkel, M. Mazo, and R. Ferrari, "Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach," in 2025 European Control Conference (ECC). Thessaloniki, Greece: IEEE, Jun. 2025, pp. 1078–1083.
-</div>
+</a>
 
 
