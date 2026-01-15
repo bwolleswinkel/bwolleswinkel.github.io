@@ -10,6 +10,23 @@ My research interests include control theory, optimization, and cybersecurity.
 
 Email: `b.wolleswinkel@tudelft.nl`
 
+## Skills
+
+<div class="square-cards-container cards-4">
+  <div class="square-card size-medium">
+    <strong>Control Theory</strong>
+  </div>
+  <div class="square-card size-medium">
+    <strong>Optimization</strong>
+  </div>
+  <div class="square-card size-medium">
+    <strong>Cybersecurity</strong>
+  </div>
+  <div class="square-card size-medium">
+    <strong>Systems & Control</strong>
+  </div>
+</div>
+
 ## Publications
 
 <a href="https://dl.acm.org/doi/10.1145/3746643" class="publication-card">
