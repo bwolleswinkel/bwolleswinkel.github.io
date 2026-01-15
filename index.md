@@ -26,7 +26,8 @@ Email: `b.wolleswinkel@tudelft.nl`
 
 **[Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach](https://doi.org/10.23919/ECC65951.2025.11186940)**
 
-B. Wolleswinkel, M. Mazo, and R. Ferrari, “Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach,” in 2025 European Control Conference (ECC). Thessaloniki, Greece: IEEE, Jun. 2025, pp. 1078–1083.
-{: .notice}
+<div class="publication-card">
+B. Wolleswinkel, M. Mazo, and R. Ferrari, "Zero Dynamics Attacks Subject to Actuator Saturation: A Constrained Optimization Approach," in 2025 European Control Conference (ECC). Thessaloniki, Greece: IEEE, Jun. 2025, pp. 1078–1083.
+</div>
 
 
